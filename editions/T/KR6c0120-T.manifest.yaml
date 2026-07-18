@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6c0120_000-T.yaml, hash: 'sha256:93552202494b42ea5f1e9a57e1225829df9ba1bcf02b8c56868fcb58e7a445df'}
   - {seq: 1, filename: KR6c0120_001-T.yaml, hash: 'sha256:9fa7b014910edb74199721cf06566c4b8b188066c812e1eb23ccf874590645ac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0120_000-T.markers.yaml, hash: 'sha256:679b263c5589ca75a8b92ed56c396da7713a76955e28380604bafc5172343811'}
+  - {seq: 0, role: markers, filename: assets/KR6c0120_000-T.markers.yaml, hash: 'sha256:2526b8ccdb78dabe15a7f10817c36b63c334d7ea50f74acab396bf49eee4a7e6'}
   - {seq: 1, role: markers, filename: assets/KR6c0120_001-T.markers.yaml, hash: 'sha256:cb0a8c6f6677fe4cc60e047dd487a493208d0986590ede7c5f34e8cf54b63041'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 大樂金剛不空真實三麼耶經
   type: juan
   level: 1
-hash: sha256:f1341a712dcc9a1910919e66ca8e045f929e626b9ee8352bb4eae31a663e3ce1
+hash: sha256:01e2dc9603945323c133e0000d0d28128ef93760508c1c3a6632190166016ef8
